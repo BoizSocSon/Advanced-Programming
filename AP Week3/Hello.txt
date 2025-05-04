@@ -1,0 +1,15 @@
+"Hello," 
+"How are you?", 
+"What's your name?", 
+"Nice to meet you," 
+"Thank you," 
+"Please," 
+"Excuse me," 
+"Yes," 
+"No,"
+"Good morning/afternoon/evening,"
+"Do you have any questions?", 
+"Can you repeat that?", 
+"Where is the bathroom?" 
+"What time is it?" 
+"I'm sorry," and "See you later.". 
